@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Yubin, and this is my work account  
-I am currently working on a Node/Express project  
+> I am Yubin, and this is my work account  
+> Currently working on a Node/Express project  
+> Been at Gurzu since November 2022
 
 ## Web Development  
 
