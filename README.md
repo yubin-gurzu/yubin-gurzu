@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am Yubin, and this is my work account  
 Currently working on a Node/Express project  
 Been at Gurzu since November 2022  
-> We use both GitHub and GitLab, so this account doesn't include all contributions
+> Used GitLab previously, so this account doesn't include all contributions
 
 ## Web Development  
 
