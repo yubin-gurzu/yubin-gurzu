@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 I am Yubin, and this is my work account  
-Currently working on a Node/Express project  
-Been at Gurzu since November 2022  
-> Used GitLab previously, so this account doesn't include all contributions
+Have been involved in React, React Native, Flutter and Node projects  
+Used GitLab previously, so this account doesn't include all contributions  
+
+> November 2022 - March 2025  
 
 ## Web Development  
 
